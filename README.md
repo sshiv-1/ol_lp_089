@@ -73,6 +73,11 @@ initiated by **Batch 2027** for **Batch 2028** learners.
 - **Modeling:** Classification (Logistic Regression, Random Forest, SVC, XGBoost), Clustering (K-Means)
 
 ---
+# Live Demo
+
+[click here](https://f1analyisis-jn5h455gttaueihhvwtbfy.streamlit.app/?embed_options=light_theme)
+
+---
 
 ## 🚀 Running the App
 
